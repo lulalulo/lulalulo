@@ -40,7 +40,7 @@
 ### 💻 Software and Tools
 
 <p>
-    <a href="#"><img alt="Linux" src="https://img.shields.io/badge/Linux%20-%23FCC624?style=for-the-badge&logo=linux&logoColor=black"></a>
+    <a href="#"><img alt="Linux" src="https://img.shields.io/badge/Linux%20-%23FCC624?logo=linux&logoColor=black"></a>
     <a href="#"><img alt="Adobe" src="https://img.shields.io/badge/Adobe%20-%23FF0000.svg?logo=adobe&logoColor=white"></a>
     <a href="#"><img alt="Android Studio" src="https://img.shields.io/badge/Android%20Studio-008678.svg?logo=android-studio&logoColor=white"></a>
     <a href="#"><img alt="Firefox" src="https://img.shields.io/badge/Chrome-3DDC84?logo=google-chrome&logoColor=white"></a>
