@@ -65,9 +65,9 @@
 
 |                                                                     lulalulo's Stats                                                                     |
 |:------------------------------------------------------------------------------------------------------------------------------------------------------:|
-| ![Vishal's 𝚐𝚒𝚝𝚑𝚞𝚋 𝚐𝚛𝚊𝚙𝚑](https://activity-graph.herokuapp.com/graph?username=lulalulo&theme=react-dark&hide_border=true&area=true) |
-| ![Vishal's github stats](https://github-readme-stats.vercel.app/api?username=lulalulo&show_icons=true&theme=algolia)              | 
-| ![Vishal's GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=lulalulo&theme=algolia)                    | 
+| ![lulalulo's 𝚐𝚒𝚝𝚑𝚞𝚋 𝚐𝚛𝚊𝚙𝚑](https://activity-graph.herokuapp.com/graph?username=lulalulo&theme=react-dark&hide_border=true&area=true) |
+| ![lulalulo's github stats](https://github-readme-stats.vercel.app/api?username=lulalulo&show_icons=true&theme=algolia)              | 
+| ![lulalulo's GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=lulalulo&theme=algolia)                    | 
     
 
 |                                                                                                      lulalulo's Stars                                                                                                       |                                                           Top Languages                                                           |      
