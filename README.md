@@ -56,6 +56,7 @@
 ### 👨🏽‍💻 Workspace
 <p>
     <a href="#"><img alt="T430 Thinkpad" src="https://img.shields.io/badge/ThinkPad-Lenovo-black.svg?style=for-the-badge&logo=lenovo"></a>
+    <a href="#"><img alt="Arch Linux" src="https://img.shields.io/badge/Arch_Linux-black.svg?style=for-the-badge&logo=arch-linux"></a>
 </p>
 
 
