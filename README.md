@@ -43,7 +43,6 @@
     <a href="#"><img alt="Linux" src="https://img.shields.io/badge/Linux%20-%23FCC624?logo=linux&logoColor=black"></a>
     <a href="#"><img alt="Debian" src="https://img.shields.io/badge/Debian-%23A81D33.svg?logo=debian&logoColor=white"></a>
     <a href="#"><img alt="Emacs" src="https://img.shields.io/badge/Emacs-%237F5AB6.svg?logo=gnu-emacs&logoColor=white"></a>
-    <a href="#"><img alt="Android Studio" src="https://img.shields.io/badge/Android%20Studio-008678.svg?logo=android-studio&logoColor=white"></a>
     <a href="#"><img alt="Firefox" src="https://img.shields.io/badge/Chrome-3DDC84?logo=google-chrome&logoColor=white"></a>
     <a href="#"><img alt="Colab" src="https://img.shields.io/badge/Colab-00b56a.svg?logo=google-colab&logoColor=white"></a>
     <a href="#"><img alt="Git" src="https://img.shields.io/badge/Git%20-%23F05033.svg?logo=git&logoColor=white"></a>
