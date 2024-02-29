@@ -19,7 +19,7 @@
     <a href="#"><img alt="Vue.js" src="https://img.shields.io/badge/Vue.js-4FC08D?&logo=vue.js&logoColor=white"></a>
     <a href="#"><img alt="Keras" src="https://img.shields.io/badge/Keras%20-%23D00000.svg?logo=Keras&logoColor=white"></a>
     <a href="#"><img alt="Pandas" src="https://img.shields.io/badge/Pandas%20-%23150458.svg?logo=pandas&logoColor=white"></a>
-    <a href="#"><img alt="React" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"></a>
+    <a href="#"><img alt="React" src="https://img.shields.io/badge/React-20232A?&logo=react&logoColor=61DAFB"></a>
 
 </p>
 
