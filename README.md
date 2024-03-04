@@ -20,7 +20,7 @@
     <a href="#"><img alt="Pandas" src="https://img.shields.io/badge/Pandas%20-%23150458.svg?logo=pandas&logoColor=white"></a>
     <a href="#"><img alt="React" src="https://img.shields.io/badge/React-20232A?&logo=react&logoColor=61DAFB"></a>
     <a href="#"><img alt="Angular" src="https://img.shields.io/badge/Angular-DD0031?logo=angular&logoColor=white"></a>
-    <a href="#"><img alt="Leptops" src="https://img.shields.io/badge/Leptops-black?logo=rust&logoColor=white"></a>
+    <a href="#"><img alt="Leptos" src="https://img.shields.io/badge/Leptops-black?logo=rust&logoColor=white"></a>
 
 </p>
 
