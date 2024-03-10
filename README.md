@@ -1,7 +1,7 @@
 ### Hi there 
 ## 🛠️ My Favorite Tools
 
-### 👨‍💻 Programming Languages
+### 👨‍💻 Programming Languages.
 
 <p>
     <a href="#"><img alt="Java" src="https://img.shields.io/badge/Java-007396?logo=java&logoColor=white"></a>
