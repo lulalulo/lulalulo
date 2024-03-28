@@ -55,6 +55,7 @@
 
 </p>
 
+## Finished projects
 
 ## GitHub Stats
 
