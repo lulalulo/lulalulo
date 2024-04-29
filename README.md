@@ -25,7 +25,7 @@
 
 </p>
 
-### 🗄️ Databases and Cloud/Web Hosting
+### 🗄️ Databases, Cloud/Web Hosting and Container tools
 
 <p>
     <a href="#"><img alt="MySQL" src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white"></a>
