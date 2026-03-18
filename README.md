@@ -56,11 +56,6 @@
 
 </p>
 
-## Finished projects
-- [conaguawebscrapping](https://github.com/lulalulo/conaguawebscrapping)
-- [NORTHVB](https://github.com/lulalulo/NORTHVB)
-- [Small Cobol Projects](https://github.com/lulalulo/smallcobolprojects)
-
 ## GitHub Stats
 
 
