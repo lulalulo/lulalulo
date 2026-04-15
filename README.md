@@ -41,7 +41,6 @@
 
 <p>
     <a href="#"><img alt="Linux" src="https://img.shields.io/badge/Linux%20-%23FCC624?logo=linux&logoColor=black"></a>
-    <a href="#"><img alt="Debian" src="https://img.shields.io/badge/Debian-%23A81D33.svg?logo=debian&logoColor=white"></a>
     <a href="#"><img alt="Emacs" src="https://img.shields.io/badge/Emacs-%237F5AB6.svg?logo=gnu-emacs&logoColor=white"></a>
     <a href="#"><img alt="Firefox" src="https://img.shields.io/badge/Firefox-%23FF7139.svg?logo=firefox-browser&logoColor=white"></a>
 </p>
