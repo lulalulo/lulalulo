@@ -53,11 +53,3 @@
     <a href="#"><img alt="Emacs" src="https://img.shields.io/badge/Emacs-%237F5AB6.svg?style=for-the-badge&logo=gnu-emacs&logoColor=white"></a>
 
 </p>
-
-## GitHub Stats
-
-   
-
-|                                                                                                      lulalulo's Stars                                                                                                       |                                                           Top Languages                                                           |      
-|:-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------:|:---------------------------------------------------------------------------------------------------------------------------------:|
-| ![Github Stars](https://github-readme-stats.vercel.app/api?username=lulalulo&show_icons=true&locale=en&count_private=true&hide_rank=true&custom_title=My%20GitHub%20Stats&disable_animations=true&theme=algolia) | ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lulalulo&langs_count=8&theme=algolia&layout=compact) |
